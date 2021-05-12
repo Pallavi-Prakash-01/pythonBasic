@@ -1,0 +1,5 @@
+#Python Program for simple interest (SI = prt/100)
+p=float(input("Enter principle amount : "))
+t=float(input("Enter time : "))
+r=float(input("Enter Raote of interest : "))
+print("Simple Interest is : ",((p*t*r)/100))
